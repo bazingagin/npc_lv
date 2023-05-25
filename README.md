@@ -1,3 +1,7 @@
+## Code for Paper: Few-Shot Non-Parametric Learning with Deep Latent Variable Model
+This paper is accepted to [NeurIPS 2022](https://openreview.net/pdf?id=24fiAU_9vT).  
+Below is the instruction for doing classification with trained generative models.
+
 ## Requirements
 ```
 python>=3.7
